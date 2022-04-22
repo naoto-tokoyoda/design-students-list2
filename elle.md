@@ -1,14 +1,14 @@
 ## Name
-Elle Kasai
+Naoto Tokoyoda
 
 ## Your personality
-Cheerful
+Calm and stable
 
 ## Your work experience or what you did in your past life
-8 years in tech!
+Learned basic web development
 
 ## Hobby
-Video Games
+To find gadgets
 
 ## Where you're from
-Yokohama, Japan
+Chiba, Japan
